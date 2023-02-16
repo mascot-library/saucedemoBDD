@@ -1,0 +1,63 @@
+2023-02-16 10:02:883 INFO  ManageDrivers :28 - launching chrome browser
+2023-02-16 10:02:446 INFO  LoginPage :44 - getting actual url: https://www.saucedemo.com/
+2023-02-16 10:02:563 INFO  LoginPage :33 - sending text to username field: standard_user
+2023-02-16 10:02:641 INFO  LoginPage :35 - sending text to password field: secret_sauce
+2023-02-16 10:02:757 INFO  LoginPage :40 - Clicking on login button
+2023-02-16 10:02:884 INFO  ProductsPage :38 - Select option from dropdown: Price (high to low)
+2023-02-16 10:02:909 INFO  ProductsPage :45 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (f5e084915130e0c3b8b0d34e5a3d7932)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2023-02-16 10:02:28 INFO  ProductsPage :45 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (f5e084915130e0c3b8b0d34e5a3d7932)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2023-02-16 10:02:132 INFO  ProductsPage :63 - Opening shopping cart
+2023-02-16 10:02:217 INFO  YourCartPage :34 - Clicking on checkout button
+2023-02-16 10:02:303 INFO  ProductsPage :55 - Clicking on single product: Sauce Labs Bolt T-Shirt
+2023-02-16 10:02:354 INFO  SingleProductPage :31 - Clicking on add to cart button
+2023-02-16 10:02:408 INFO  SingleProductPage :26 - Clicking on back to products button
+2023-02-16 10:02:457 INFO  ProductsPage :63 - Opening shopping cart
+2023-02-16 10:02:514 INFO  YourCartPage :29 - Clicking on checkout button
+2023-02-16 10:02:596 INFO  CheckoutYourInformationPage :40 - Entering firstname: Micky
+2023-02-16 10:02:672 INFO  CheckoutYourInformationPage :42 - Entering lastname: Smith
+2023-02-16 10:02:745 INFO  CheckoutYourInformationPage :44 - Entering zip postal code: PA2 8JE
+2023-02-16 10:02:805 INFO  CheckoutYourInformationPage :49 - Clicking on Continue button
+2023-02-16 10:02:865 INFO  CheckoutOverviewPage :21 - clicking on finish button
+2023-02-16 10:02:899 INFO  ManageDrivers :16 - returning actual message: THANK YOU FOR YOUR ORDER
+2023-02-16 10:02:902 INFO  ManageDrivers :28 - launching chrome browser
+2023-02-16 10:02:351 INFO  LoginPage :44 - getting actual url: https://www.saucedemo.com/
+2023-02-16 10:02:452 INFO  LoginPage :33 - sending text to username field: standard_user
+2023-02-16 10:02:521 INFO  LoginPage :35 - sending text to password field: secret_sauce
+2023-02-16 10:02:632 INFO  LoginPage :40 - Clicking on login button
+2023-02-16 10:02:726 INFO  ProductsPage :38 - Select option from dropdown: Price (high to low)
+2023-02-16 10:02:747 INFO  ProductsPage :45 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (e8be16cd641cb48b53c2404421604f71)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2023-02-16 10:02:855 INFO  ProductsPage :45 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (e8be16cd641cb48b53c2404421604f71)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2023-02-16 10:02:949 INFO  ProductsPage :63 - Opening shopping cart
+2023-02-16 10:02:13 INFO  YourCartPage :34 - Clicking on checkout button
+2023-02-16 10:02:98 INFO  ProductsPage :55 - Clicking on single product: Sauce Labs Bolt T-Shirt
+2023-02-16 10:02:150 INFO  SingleProductPage :31 - Clicking on add to cart button
+2023-02-16 10:02:198 INFO  SingleProductPage :26 - Clicking on back to products button
+2023-02-16 10:02:244 INFO  ProductsPage :63 - Opening shopping cart
+2023-02-16 10:02:291 INFO  YourCartPage :29 - Clicking on checkout button
+2023-02-16 10:02:364 INFO  CheckoutYourInformationPage :40 - Entering firstname: Johey
+2023-02-16 10:02:436 INFO  CheckoutYourInformationPage :42 - Entering lastname: Dobson
+2023-02-16 10:02:503 INFO  CheckoutYourInformationPage :44 - Entering zip postal code: JN4 5KD
+2023-02-16 10:02:563 INFO  CheckoutYourInformationPage :49 - Clicking on Continue button
+2023-02-16 10:02:613 INFO  CheckoutOverviewPage :21 - clicking on finish button
+2023-02-16 10:02:641 INFO  ManageDrivers :16 - returning actual message: THANK YOU FOR YOUR ORDER
+2023-02-16 10:02:626 INFO  ManageDrivers :28 - launching chrome browser
+2023-02-16 10:02:36 INFO  LoginPage :44 - getting actual url: https://www.saucedemo.com/
+2023-02-16 10:02:145 INFO  LoginPage :33 - sending text to username field: standard_user
+2023-02-16 10:02:221 INFO  LoginPage :35 - sending text to password field: secret_sauce
+2023-02-16 10:02:327 INFO  LoginPage :40 - Clicking on login button
+2023-02-16 10:02:431 INFO  ProductsPage :38 - Select option from dropdown: Price (high to low)
+2023-02-16 10:02:454 INFO  ProductsPage :45 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (d15ef0538c43fa007f26820682bdbd43)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2023-02-16 10:02:553 INFO  ProductsPage :45 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (d15ef0538c43fa007f26820682bdbd43)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2023-02-16 10:02:652 INFO  ProductsPage :63 - Opening shopping cart
+2023-02-16 10:02:719 INFO  YourCartPage :34 - Clicking on checkout button
+2023-02-16 10:02:807 INFO  ProductsPage :55 - Clicking on single product: Sauce Labs Bolt T-Shirt
+2023-02-16 10:02:855 INFO  SingleProductPage :31 - Clicking on add to cart button
+2023-02-16 10:02:903 INFO  SingleProductPage :26 - Clicking on back to products button
+2023-02-16 10:02:947 INFO  ProductsPage :63 - Opening shopping cart
+2023-02-16 10:02:994 INFO  YourCartPage :29 - Clicking on checkout button
+2023-02-16 10:02:59 INFO  CheckoutYourInformationPage :40 - Entering firstname: Tanya
+2023-02-16 10:02:119 INFO  CheckoutYourInformationPage :42 - Entering lastname: Mara
+2023-02-16 10:02:185 INFO  CheckoutYourInformationPage :44 - Entering zip postal code: IG4 9LA
+2023-02-16 10:02:239 INFO  CheckoutYourInformationPage :49 - Clicking on Continue button
+2023-02-16 10:02:287 INFO  CheckoutOverviewPage :21 - clicking on finish button
+2023-02-16 10:02:317 INFO  ManageDrivers :16 - returning actual message: THANK YOU FOR YOUR ORDER
